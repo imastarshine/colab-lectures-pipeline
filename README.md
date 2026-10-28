@@ -29,5 +29,4 @@ These notebooks are designed for Google Colab and Google Drive. Since the projec
 ## Run in Colab
 Choose the language version you prefer:
 
-[![Open in Colab RU](https://img.shields.io/badge/Open_in_Colab-RU-blue?logo=googlecolab)](https://colab.research.google.com/github/imastarshine/colab-lectures-pipeline/blob/main/Lecture_Pipeline_Colab_RU.ipynb)
-[![Open in Colab EN](https://img.shields.io/badge/Open_in_Colab-EN-blue?logo=googlecolab)](https://colab.research.google.com/github/imastarshine/colab-lectures-pipeline/blob/main/Lecture_Pipeline_Colab_EN.ipynb)
+[![Open in Colab INTL](https://img.shields.io/badge/Open_in_Colab-RU-blue?logo=googlecolab)](https://colab.research.google.com/github/imastarshine/colab-lectures-pipeline/blob/main/Lecture_Pipeline_Colab_INTL.ipynb)
